@@ -1,0 +1,6 @@
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 10\bin\Debug\Ejercicio 10.exe.config
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 10\bin\Debug\Ejercicio 10.exe
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 10\bin\Debug\Ejercicio 10.pdb
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 10\obj\Debug\Ejercicio 10.csproj.CoreCompileInputs.cache
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 10\obj\Debug\Ejercicio 10.exe
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 10\obj\Debug\Ejercicio 10.pdb

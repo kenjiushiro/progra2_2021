@@ -1,0 +1,7 @@
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 7\bin\Debug\Ejercicio 7.exe.config
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 7\bin\Debug\Ejercicio 7.exe
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 7\bin\Debug\Ejercicio 7.pdb
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 7\obj\Debug\Ejercicio 7.csprojAssemblyReference.cache
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 7\obj\Debug\Ejercicio 7.csproj.CoreCompileInputs.cache
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 7\obj\Debug\Ejercicio 7.exe
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 7\obj\Debug\Ejercicio 7.pdb

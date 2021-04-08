@@ -1,0 +1,10 @@
+C:\Users\RYZEN\source\repos\ClassLibrary1\Ejercicio 12\bin\Debug\Ejercicio 12.exe.config
+C:\Users\RYZEN\source\repos\ClassLibrary1\Ejercicio 12\bin\Debug\Ejercicio 12.exe
+C:\Users\RYZEN\source\repos\ClassLibrary1\Ejercicio 12\bin\Debug\Ejercicio 12.pdb
+C:\Users\RYZEN\source\repos\ClassLibrary1\Ejercicio 12\bin\Debug\ClassLibrary1.dll
+C:\Users\RYZEN\source\repos\ClassLibrary1\Ejercicio 12\bin\Debug\ClassLibrary1.pdb
+C:\Users\RYZEN\source\repos\ClassLibrary1\Ejercicio 12\obj\Debug\Ejercicio 12.csprojAssemblyReference.cache
+C:\Users\RYZEN\source\repos\ClassLibrary1\Ejercicio 12\obj\Debug\Ejercicio 12.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\source\repos\ClassLibrary1\Ejercicio 12\obj\Debug\Ejercicio 12.csproj.CopyComplete
+C:\Users\RYZEN\source\repos\ClassLibrary1\Ejercicio 12\obj\Debug\Ejercicio 12.exe
+C:\Users\RYZEN\source\repos\ClassLibrary1\Ejercicio 12\obj\Debug\Ejercicio 12.pdb

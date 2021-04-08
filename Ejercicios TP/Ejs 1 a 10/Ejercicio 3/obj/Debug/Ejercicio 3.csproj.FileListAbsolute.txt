@@ -1,0 +1,7 @@
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.CoreCompileInputs.cache
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 3\obj\Debug\Ejercicio 3.pdb
+D:\UTN\2021\Progra 2c\Ejercicios\ConsoleApp1\Ejercicio 3\obj\Debug\Ejercicio 3.csprojAssemblyReference.cache
